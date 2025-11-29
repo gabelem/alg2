@@ -1,1 +1,1 @@
-# alg2
+# COMPILE USANDO gcc (arquivo.c) -lm
